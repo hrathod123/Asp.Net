@@ -1,0 +1,1 @@
+console.log("This is a placeholder for Sm_Fshop/js/yttheme.js.");
