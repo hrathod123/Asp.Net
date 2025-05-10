@@ -1,1 +1,1 @@
-
+console.log("This is a placeholder for Magento_PageCache/js/form-key-provider.js.");
