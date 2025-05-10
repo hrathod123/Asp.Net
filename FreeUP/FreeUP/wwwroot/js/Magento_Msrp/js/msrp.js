@@ -1,1 +1,1 @@
-
+console.log("This is a placeholder for Magento_Msrp/js/msrp.js.");
