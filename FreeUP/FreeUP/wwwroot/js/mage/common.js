@@ -1,1 +1,1 @@
-
+console.log("This is a placeholder for mage/common.js.");
