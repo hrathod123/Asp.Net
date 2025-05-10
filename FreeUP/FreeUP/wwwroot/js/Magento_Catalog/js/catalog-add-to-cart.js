@@ -1,1 +1,1 @@
-
+console.log("This is a placeholder for Magento_Catalog/js/catalog-add-to-cart.js.");
