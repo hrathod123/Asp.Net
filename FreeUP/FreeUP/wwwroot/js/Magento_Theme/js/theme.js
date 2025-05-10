@@ -1,1 +1,1 @@
-
+console.log("This is a placeholder for Magento_Theme/js/theme.js.");
