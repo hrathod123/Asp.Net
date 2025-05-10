@@ -1,1 +1,0 @@
-console.log("This is a placeholder for Magefan_Blog/js/lib/mfblogunveil.js.");
