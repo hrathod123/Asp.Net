@@ -1,0 +1,41 @@
+/* Seller Registration Styles */
+.form-label {
+    font-weight: 500;
+}
+
+.card-header {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.document-preview {
+    max-height: 300px;
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.document-preview img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Confirmation Page */
+.bi-check-circle-fill {
+    color: #28a745;
+}
+
+/* Admin Panel */
+.table th {
+    font-weight: 600;
+}
+
+.badge {
+    font-size: 0.85em;
+    padding: 0.35em 0.65em;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .btn-group .btn {
+        padding: 0.25rem 0.5rem;
+    }
+}
